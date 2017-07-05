@@ -37,6 +37,10 @@ a {
   color: white;
   text-decoration: none;
   }
+a:hover {
+  color: black ;
+  background-color: #def ;
+  }
 img{
   margin: 0 0 0 0;
   }
