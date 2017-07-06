@@ -6,6 +6,7 @@ p{
   font-size: 11px;
   text-align: justify;
   margin:75px 20px 20px 20px;
+  line-height: 20px;
   }
 p:first-letter {
   float: left;
@@ -21,7 +22,7 @@ article {
   }
 header {
   text-align: center;
-  background: url('http://hyser.com.ua/wp-content/uploads/2016/08/14-15.jpg');
+  background: url('img/tuscany-sunrise.jpg');
   background-size: cover;      
   color: white;
   }
@@ -36,10 +37,6 @@ li {
 a {
   color: white;
   text-decoration: none;
-  }
-a:hover {
-  color: black ;
-  background-color: #def ;
   }
 img{
   margin: 0 0 0 0;
